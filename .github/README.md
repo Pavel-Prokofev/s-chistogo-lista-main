@@ -17,4 +17,4 @@ c намерением освежить в памяти вёрстку, маке
 
 ***
 
-* [Ссылка на сайт проекта: С чистого листа]([https://ono-tebe-nado-rho.vercel.app/](https://s-chistogo-lista-main.vercel.app/)https://s-chistogo-lista-main.vercel.app) 
+* [Ссылка на сайт проекта: С чистого листа](https://s-chistogo-lista-main.vercel.app/) 
